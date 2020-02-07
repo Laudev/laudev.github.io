@@ -6,7 +6,7 @@
     deniedCount: 0,
     speed: 30,
 
-    file: "TestBestand.html",
+    file: "",
 
     init: function () {
         setInterval(function () {
@@ -109,7 +109,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = "TestBestand.html"; // Bestandsnaam
+Typer.file = "TestBestand.txt"; // Bestandsnaam
 Typer.init();
 
 var timer = setInterval("t();", 30);
