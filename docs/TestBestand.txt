@@ -27,7 +27,7 @@ Extra informatie:
 <a href="http://www.google.com">Profiel Link 3</a>
 
 
-Voor meer informatie of contact <!-- zzzzzzzzzzzz-->, stuur een email naar: <!-- zzzzzzzzzzzzzzzzzzzzzzzz --><a href="laurenstel90@gmail.com">Email</a>.
+Voor meer informatie of contact <!-- zzzzzzzzzzzz-->, stuur een email naar: <!-- zzzzzzzzzzzzzzzzzzzzzzzz --><a href="mailto:laurenstel90@gmail.com">Email</a>.
 
 <p> :-D </p>
 <!-- alles tussen commentaar regels, word gelezen als delay voor de volgende regel/zin -->
