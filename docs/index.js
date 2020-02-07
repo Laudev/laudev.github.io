@@ -109,7 +109,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-//Typer.file = "TestBestand.html"; // Bestandsnaam
+Typer.file = "TestBestand.html"; // Bestandsnaam
 Typer.init();
 
 var timer = setInterval("t();", 30);
